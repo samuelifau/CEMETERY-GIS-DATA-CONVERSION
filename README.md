@@ -1,12 +1,25 @@
-# Cemetery Burial Records GIS Visualization
+<div align="center">
+   
+# 🪦 Cemetery GIS Data Conversion & Mapping Project
 
-This repository contains a complete workflow for converting raw cemetery burial records into a structured GIS dataset and high-quality cartographic maps using **QGIS**.
+**GIS Data Conversion · QGIS · Spatial Data Cleaning · Cartography**
 
-The project demonstrates data cleaning, spatial data preparation, coordinate handling, rendering optimization, and map layout production suitable for academic, archival, or digital humanities use cases.
+![QGIS](https://img.shields.io/badge/QGIS-3.x-green)
+![GIS](https://img.shields.io/badge/GIS-Data%20Processing-blue)
+![CSV](https://img.shields.io/badge/Data-CSV-lightgrey)
+![CRS](https://img.shields.io/badge/CRS-EPSG%3A4326-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+<br>
+</div>
 
 ---
 
 ## 📌 Project Overview
+
+<img width="3507" height="2480" alt="cemetery_overview_map" src="https://github.com/user-attachments/assets/6a109b40-2cd5-43c1-90ef-c7c36795a961" />
+<img width="3507" height="2480" alt="cemetery_detail_map_1200" src="https://github.com/user-attachments/assets/0595f47f-9621-4675-9453-29cb96839541" />
+
 
 - **Dataset**: Cemetery burial records (CSV)
 - **Study Area**: Mountain View Cemetery, Vancouver
