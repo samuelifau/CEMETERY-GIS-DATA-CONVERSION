@@ -10,8 +10,10 @@
 ![CRS](https://img.shields.io/badge/CRS-EPSG%3A4326-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+
 <br>
 </div>
+
 
 ---
 
@@ -19,6 +21,12 @@
 
 <img width="3507" height="2480" alt="cemetery_overview_map" src="https://github.com/user-attachments/assets/6a109b40-2cd5-43c1-90ef-c7c36795a961" />
 <img width="3507" height="2480" alt="cemetery_detail_map_1200" src="https://github.com/user-attachments/assets/0595f47f-9621-4675-9453-29cb96839541" />
+
+This project demonstrates a **GIS data conversion and mapping workflow** focused on transforming raw cemetery records into **clean, spatially accurate GIS datasets and cartographic outputs**.
+
+The workflow reflects real-world tasks required for cemetery management platforms such as **Chronicle**, including data validation, coordinate handling, CRS management, and high-performance rendering in QGIS.
+
+Final outputs include **overview and detailed cemetery maps**, suitable for digital records, spatial analysis, and map-based applications.
 
 
 - **Dataset**: Cemetery burial records (CSV)
